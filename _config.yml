@@ -15,6 +15,8 @@ avatar: http://www.designshock.com/wp-content/uploads/2016/10/Avatar-Icon-Creato
 # Flags below are optional
 #
 
+body {
+         background: url(http://ramflisa.url.ph/Bilder/binary.jpg)
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
