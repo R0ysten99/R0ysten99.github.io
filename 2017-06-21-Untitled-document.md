@@ -1,5 +1,5 @@
 ---
-title: Blogging4lyfe
+title: Blog 2
 layout: post
 author: jamie.roy
 permalink: /untitled-document/
