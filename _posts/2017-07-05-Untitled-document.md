@@ -1,14 +1,14 @@
 ---
-title: blog 2
+title: Blog 1
 layout: post
 author: jamie.roy
 permalink: /untitled-document/
-source-id: 1uxHu3JRNudAdNbyIBDqRjqkvuVk2SelteYUfuH33ve0
+source-id: 17OAZGQTLFB3jecA00H0GlbQx3ffMZCutiSJ5piGyF4I
 published: true
 ---
-Blog 2
+Blog 1
 
-I made lots of progress on my Github blog today. I started off the lesson doing a starter activity to get my brain working. The starter activity was quite hard and i got stuck so i had to ask for help. The starter was hard and i couldn't complete it in the lesson. The blog was the main part of the lesson as i fixed the problem i had had with my blog. This really helped my progress and when it was done i really advanced my work at a much quicker rate and it was very helpful to speeding up my blog as it was much quicker progress and i finished my blog and it was made much more effective.
+This blog is to show the progress i am making. I have successfully put in a lot of new and original code to simulate an actual conversation with a real person. The person who this is talking to will be the one this tries to convince that it's real. The code I worked on this lesson was making the original code more user friendly and use the previous info i had gotten from the person and making them feel like the user remembers the name and that is helpful for the trick to convincing the person that the computer is a real time human thinking and responding to the person.
 
-![image alt text]({{ site.url }}/public/RvS790CsAmmPDCmF7mSYUA_img_0.jpg)
+![image alt text]({{ site.url }}/public/RvS790CsAmmPDCmF7mSYUA_img_0.png)
 
